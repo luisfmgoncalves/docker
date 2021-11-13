@@ -1,0 +1,3 @@
+xpack.monitoring.elasticsearch.hosts: ["http://localhost:9200"]
+xpack.monitoring.elasticsearch.username: "logstash"
+xpack.monitoring.elasticsearch.password: "logstash"

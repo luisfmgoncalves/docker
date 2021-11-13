@@ -1,0 +1,3 @@
+- pipeline.id: coin_gecko_pipeline
+  path.config: "/usr/share/logstash/config/coin_gecko.conf"
+  pipeline.workers: 3
