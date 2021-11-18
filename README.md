@@ -1,3 +1,3 @@
-This project contains a series of docker-compose files that can be used to spin up docker containers with different tools.
+Collection of docker-compose files used to spin up docker containers with different tools.
 
-It is assumed that you have [docker](https://www.docker.com/get-started#h_installation) and [compose](https://docs.docker.com/compose/install/) installed on you machine.
+It is assumed that [docker](https://www.docker.com/get-started#h_installation) and [compose](https://docs.docker.com/compose/install/) are installed.
