@@ -6,8 +6,6 @@ services:
     container_name: activemq
     environment:
       - 'TZ=Europe/Amsterdam'
-    networks:
-      - pim-sofort
     ports:
       - 61616:61616 #JMS
       - 8161:8161   #UI
