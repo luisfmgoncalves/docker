@@ -17,7 +17,7 @@ services:
       - xpack.security.transport.ssl.keystore.path=certificates.p12
       - xpack.security.transport.ssl.truststore.type=PKCS12
       - xpack.security.transport.ssl.truststore.path=certificates.p12
-      - "ES_JAVA_OPTS=-XX:UseAVX=2 -Xms1g -Xmx1g"
+      - "ES_JAVA_OPTS=-Xms1g -Xmx1g"
     ulimits:
       memlock:
         soft: -1
